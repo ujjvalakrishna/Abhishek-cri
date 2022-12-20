@@ -1,7 +1,7 @@
 [![@cric_83's Holopin board](https://holopin.me/cric_83)](https://holopin.io/@cric_83)
 - 👋 Hi, I’m @Abhishek-cri
-- 👀 I’m interested in machine learning
-- 🌱 I’m a currently diving into Django and DSA
+- 👀 I’m interested in Devops and Blockchain technologies.
+- 🌱 I’m a currently diving into Devops.
 - 💞️ I’m looking to collaborate on Django open source projects
 - 📫 reach me 201951008@iiitvadodara.ac.in
 
